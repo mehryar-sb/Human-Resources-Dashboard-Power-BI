@@ -16,6 +16,16 @@ This project presents a comprehensive **Human Resources Analytics Dashboard** bu
   - Average Salary, Sick Days, Balance Days
   - Demographic breakdowns
   - Grouped analysis
+ 
+
+- **Page 3: By Business Unit / Region**
+
+  - Breakdown by Business Units and Cities (Houston, Los Angeles, New York City, Seattle)
+  - Total Employees, Total Salary Cost, Total Active Employees
+  - Total Sick Days / Balance Days
+  - Average Salary, Sick Days, Balance Days per Region
+  - Comparison charts for departments and cities
+  - Interactive filters for Gender, Job Type, Job Satisfaction, and more
 
 ---
 
